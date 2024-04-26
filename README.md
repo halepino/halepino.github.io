@@ -1,5 +1,5 @@
 # Background
-Science degree earnings in Psychology and Sociology laid a solid foundation for research methods, statistics, and data handling that inspired my transition and study of data science. Prior to starting a Master's degree program with Bellevue University I dedicated my career to serving vulnerable populations. 
+Science degree earnings in Psychology and Sociology laid a solid foundation for research methods, statistics, and data handling that inspired my transition and study of data science. Prior to starting a Master's degree program with Bellevue University I dedicated my career to supporting vulnerable populations   
   
 ## Education
 
