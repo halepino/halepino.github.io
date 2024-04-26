@@ -32,4 +32,4 @@ B.S. Psychology
 
 ### Workplace Culture Data Minning
   
-[https://github.com/halepino/halepino.github.io/blob/main/docs/assets/img/workplace_q.png]
+[piechart](https://github.com/halepino/halepino.github.io/blob/main/docs/assets/img/workplace_q.png)
