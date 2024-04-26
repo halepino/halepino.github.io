@@ -6,13 +6,13 @@ M.S. Data Science
 B.S. Sociology   
 B.S. Psychology   
 
-    
+\n    
 ## Work Experience  
 
 ---
 
 ### Data Analyst Intern @ DataNicely
-***Omaha, NE (Jan 2024 - Present)***
+*Omaha, NE (Jan 2024 - Present)*
 * Provision of ad-hoc data cleaning, transformation, and reporting to meet client needs. 
 * Automated file cleaning and transformation with Power Query and Power BI to reduce labor and data redundancy.
 * Repaired/reformatted existing Tableau dashboard solutions to improve performance and consistency.
