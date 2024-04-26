@@ -1,9 +1,9 @@
 # Data Science Graduate
 
 ## Education
-M.D., Data Science emsp Bellevue University (2024)
-B.S., Sociology emsp Iowa State University (2012)
-B.S., Psychology emsp Iowa State University (2011)
+M.D., Data Science emsp Bellevue University (2024)  
+B.S., Sociology emsp Iowa State University (2012)  
+B.S., Psychology emsp Iowa State University (2011)  
 
 ## Work Experience  
 ### Data Analyst Intern @ DataNicely, Omaha, NE (Jan 2024 - Present)
