@@ -1,13 +1,15 @@
-# Data Science Graduate
-
 ## Education
+
+---
+
 M.S. Data Science  
 B.S. Sociology   
 B.S. Psychology   
-
- --- 
  
 ## Work Experience  
+
+---
+
 ### Data Analyst Intern @ DataNicely
 **Omaha, NE (Jan 2024 - Present)**
 * Provision of ad-hoc data cleaning, transformation, and reporting to meet client needs. 
@@ -22,7 +24,8 @@ B.S. Psychology
 * Co-Authorship of their 2023 Community Needs Assessment and full authorship of assigned blogs. 
 * Used Excel, Python, and Power BI to perform ad hoc analysis on volunteer engagement and donation.
 
- ---
-
 ## Projects
 
+ ---
+
+ 
