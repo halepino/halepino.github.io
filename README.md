@@ -30,7 +30,8 @@ B.S. Psychology
 
  ---
 
-### Workplace Culture Data Minning
+### Workplace Culture Data Mining
+![workcalm](/docs/assets/img/workcalm.jpg)
 Project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation. A decision tree classifier was used to predict work interference and once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference.
   
 ![piechart](/docs/assets/img/workplace_q.png)
