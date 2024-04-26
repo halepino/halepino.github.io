@@ -25,8 +25,11 @@ B.S. Psychology
 * Co-Authorship of their 2023 Community Needs Assessment and full authorship of assigned blogs. 
 * Used Excel, Python, and Power BI to perform ad hoc analysis on volunteer engagement and donation.
 
+&nbsp;     
 ## Projects
 
  ---
 
- 
+### Workplace Culture Data Minning
+  
+[https://github.com/halepino/halepino.github.io/blob/main/docs/assets/img/workplace_q.png]
