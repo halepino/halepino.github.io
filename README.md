@@ -1,3 +1,6 @@
+# Background
+Science degree earnings in Psychology and Sociology laid a solid foundation for research methods, statistics, and data handling that inspired my transition and study of data science. Prior to starting a Master's degree program with Bellevue University I dedicated my career to serving vulnerable populations. 
+  
 ## Education
 
 ---
@@ -26,12 +29,14 @@ B.S. Psychology
 * Used Excel, Python, and Power BI to perform ad hoc analysis on volunteer engagement and donation.
 
 &nbsp;     
-## Projects
+# Projects
 
  ---
 
-### Data Mining the Workplace for Mental Health 
+## Data Mining the Workplace for Mental Health 
 ![workcalm](/docs/assets/img/workcalm2.jpg)  
-Project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation. A decision tree classifier was used to predict work interference and once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference.
+Project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation. A decision tree classifier was used to predict work interference and once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference. Using employee perceptions of culture and company practices, this model was able to predict wether employees experienced work-interference from mental health "never", "rarely", "sometimes", or "often" with 57% accuracy. (Over double what could be guessed by chance). 
+
+### Key Findings
   
 ![piechart](/docs/assets/img/workplace_q.png)
