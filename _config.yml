@@ -1,5 +1,5 @@
 Title: Holly Figueroa
-#logo = add relative path to image png
+logo: images/hpf1.jpg
 #description: Data Science Graduate Student
 #show_downloads = False
 theme: jekyll-theme-minimal
