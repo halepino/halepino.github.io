@@ -1,7 +1,7 @@
 # Data Science Graduate
 
 ## Education
-M.D. Data Science  
+M.S. Data Science  
 B.S. Sociology   
 B.S. Psychology   
 
