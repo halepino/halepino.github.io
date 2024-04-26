@@ -6,7 +6,7 @@ M.S. Data Science
 B.S. Sociology   
 B.S. Psychology   
 
-\n    
+  
 ## Work Experience  
 
 ---
