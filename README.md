@@ -1,5 +1,5 @@
 ## Background
-> *Science degree earnings in Psychology and Sociology laid a solid foundation for research methods, statistics, and data handling that helped inspire my transition to data science. I am passionate about social good, mental health, and wellness. My hope is to use data science and analytics towards these values.* 
+> *Science degree earnings in psychology and sociology laid a solid foundation for research methods, statistics, and data handling that helped inspire my transition to data science. I am passionate about social good, mental health, and wellness. My hope is to use data science and analytics towards these values.* 
   
 ## Education
 
