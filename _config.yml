@@ -1,4 +1,10 @@
 ctitle: Holly Figueroa
 logo: /docs/assets/img/hpf1.png
-description: Data Science Graduate Student
+description:
+  <p align="justify">
+  Data Science Graduate Student
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
 theme: jekyll-theme-minimal
