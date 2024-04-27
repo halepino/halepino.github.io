@@ -42,4 +42,6 @@ A decision tree classifier was used to predict work interference and once a mode
  
 
 ### Key Findings 
-Employees work interference from mental health appears minimized by cultures that favor an open-ness of mental health as a recognized issue. Feeling safe to discuss mental health with an employer and working somewhere that is upfront about mental health resources were associated with less work interference. Those who felt mental health resources were unclear or unavailable as well as those who felt unable to take time off for mental health were associated with higher reports of work interference.      
+* Work interference from mental health appears minimized by cultures that favor an open-ness of mental health as a recognized issue.
+* Feeling safe to discuss mental health with an employer was associated with less work interference.
+* Unclear or unavailable mental health resources and difficulty taking time off for mental health was reported with higher work interference.   
