@@ -1,5 +1,4 @@
 ctitle: Holly Figueroa
-#logo: /docs/assets/img/hpf1.png
-description: Data Science Graduate Student   I am passionate about social good, mental health, and wellness. My hope is to use data science and analytics towards these values. 
-show_downloads: False
+logo: /docs/assets/img/hpf1.png
+description: Data Science Graduate Student
 theme: jekyll-theme-minimal
