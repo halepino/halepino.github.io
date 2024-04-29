@@ -16,8 +16,7 @@
 M.S. Data Science  
 B.S. Sociology   
 B.S. Psychology   
-
-&nbsp;     
+   
 ## Work Experience  
 
 ---
@@ -35,23 +34,21 @@ B.S. Psychology
 * Influenced grantmaking changes through reporting on post-covid philanthropic trends and non-profit feedback. 
 * Co-Authorship of their 2023 Community Needs Assessment and full authorship of assigned blogs. 
 * Used Excel, Python, and Power BI to perform ad hoc analysis on volunteer engagement and donation.
-
-&nbsp;     
+     
 # Projects
 
  ---
 
 ## Data Mining the Workplace for Mental Health
 
-![workcalm](/docs/assets/img/workcalm2.jpg)
+![workcalm](/docs/assets/img/workcalm2.jpg) Image by <a href="https://www.freepik.com/free-vector/organic-flat-business-person-meditating_13404860.htm#query=work%20stress%20illustration&position=0&from_view=keyword&track=ais&uuid=54d997d2-295c-4bbf-b840-bd90d710e3cf">Freepik</a>
 
 **This project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation.**  
   
-A decision tree classifier was used to predict work interference and once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference. Using employee perceptions of culture and company practices, this model was able to predict wether employees experienced work-interference from mental health "never", "rarely", "sometimes", or "often" with 57% accuracy. (Over double what could be guessed by chance). 
+A decision tree classifier was used to predict work interference. Once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference. Using only employee perceptions of culture and company practices, this model was able to predict whether employees experienced work-interference from mental health "never", "rarely", "sometimes", or "often" with 57% accuracy. (Over double what could be guessed by chance). 
 
-![piechart](/docs/assets/img/workplace_q.png)  
+![piechart](/docs/assets/img/datamining_pie.png)  
  
-
 ### Key Findings 
 * Work interference from mental health appears minimized by cultures that favor an open-ness of mental health as a recognized issue.
 * Feeling safe to discuss mental health with an employer was associated with less work interference.
