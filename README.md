@@ -69,5 +69,7 @@ A decision tree classifier was used to predict work interference. Once a model w
 ## Twitter Analysis of Airline Sentiment
 **This project examined airline-related tweets for positive and negative sentiment. Logistic regression, gradient boosting classifier, and random forest classifier models were trained and compared for performance. Here, the random forest classifier was found to have the most effective performance with 91% accuracy on test data.[See Project Repo](https://github.com/halepino/AirlineTweets_SentimentAnalysis)**
 
+## Strategic Marketing, Visualizations, Analysis for Airlines
+This project is scenario based Sunset Air is suffering a media scare campaign. Claims of a rise in flight accidents in the media are threatening the industry. This project takes currently available data from a range of sources to perform an investigation of media claims. The findings are then presented in various audience level reports and visualizations to combat the issue. Primary tools for this project include Power BI and Power Point. This project includes internal dashboard for the technical teams and executive team, inforgraphic poster, Mock interview [blog post](https://hpfdatalore.wixsite.com/travelnewz/post/read-this-blog-if-you-want-to-live) and written rationale for visual designs and strategy. 
 
 
