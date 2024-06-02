@@ -64,8 +64,10 @@ A decision tree classifier was used to predict work interference. Once a model w
 **This project was designed to draw insights into hesistant attitudes towards Covid-19 vaccination. Corrrelational analysis was conducted between hesitancy data, reports of Covid-19 impacts, demographics, and political influences at state and county levels. Census Bureau datasets were gathered on the topic of Covid-19 impact, income loss during the pandemic, eviction or expecting eviction.[See Project Repo](https://github.com/halepino/Covid19Vaccine_Hesitancy_Correlational_Analysis)**
 
 ## Nursing Home Quality Analysis
-**This project combined flatfile, API, and webscraped data sources into a SQL database to examine variable relationships to nursing home quality. Nursing home data for all nursing homes in the United States was combined at state and county levels. Data for state funding and local demongraphics were explored along with features related to nursing care facilities. SQLite was used to Query and visualize bivariate relationships. [See Project Repo}(https://github.com/halepino/Nursing_Home_Quality_Analysis/tree/main)**
+**This project combined flatfile, API, and webscraped data sources into a SQL database to examine variable relationships to nursing home quality. Nursing home data for all nursing homes in the United States was combined at state and county levels. Data for state funding and local demongraphics were explored along with features related to nursing care facilities. SQLite was used to Query and visualize bivariate relationships. [See Project Repo](https://github.com/halepino/Nursing_Home_Quality_Analysis/tree/main)**
 
 ## Twitter Analysis of Airline Sentiment
 **This project examined airline-related tweets for positive and negative sentiment. Logistic regression, gradient boosting classifier, and random forest classifier models were trained and compared for performance. Here, the random forest classifier was found to have the most effective performance with 91% accuracy on test data.[See Project Repo](https://github.com/halepino/AirlineTweets_SentimentAnalysis)**
+
+
 
