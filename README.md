@@ -43,9 +43,9 @@ B.S. Psychology
 
 ![workcalm](/docs/assets/img/workcalm2.jpg) Image by <a href="https://www.freepik.com/free-vector/organic-flat-business-person-meditating_13404860.htm#query=work%20stress%20illustration&position=0&from_view=keyword&track=ais&uuid=54d997d2-295c-4bbf-b840-bd90d710e3cf">Freepik</a>
 
-**This project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation. [See Project Repo](https://github.com/halepino/WorkplaceCulture_DataMining)**  
+**This project aims to inform company practices/offerings that reduce work-interference due to employee mental health using machine learning classification modelings and model interpretation.**
   
-A decision tree classifier was used to predict work interference. Once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference. Using only employee perceptions of culture and company practices, this model was able to predict whether employees experienced work-interference from mental health "never", "rarely", "sometimes", or "often" with 57% accuracy. (Over double what could be guessed by chance). 
+A decision tree classifier was used to predict work interference. Once a model was optimized, feature impact was analyzed using the SHAP library to highlight workplace culture and practices associated with increased or decreased work-interference. Using only employee perceptions of culture and company practices, this model was able to predict whether employees experienced work-interference from mental health "never", "rarely", "sometimes", or "often" with 57% accuracy. (Over double what could be guessed by chance). [See Project Repo](https://github.com/halepino/WorkplaceCulture_DataMining)
 
 ![piechart](/docs/assets/img/datamining_pie.png)  
  
