@@ -16,6 +16,11 @@
 M.S. Data Science  
 B.S. Sociology   
 B.S. Psychology   
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div> 
    
 ## Work Experience  
 
