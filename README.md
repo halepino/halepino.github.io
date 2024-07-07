@@ -3,14 +3,15 @@
 
 <details markdown="1">
 <summary><H1>Resume</H1></summary>  
- 
+
+  
 ## Technical Skills  
 
 ---
 
 **Languages:** Python, R, SQL  
 **Software:** Tableau, Power BI, Excel, Hadoop, Spark, HBase  
-**Methods:** Statistics, data mining, web-scraping, cleaning, transformation, machine learning, visualization, dashboarding.
+**Methods:** Statistics, data mining, web-scraping, cleaning, transformation, machine learning, visualization, dashboarding.  
 
 ## Education  
 
