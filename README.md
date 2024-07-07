@@ -1,7 +1,7 @@
 # About
 *Science degree earnings in psychology and sociology laid a solid foundation for research methods, statistics, and data handling that helped inspire my transition to data science. Prior to starting a Master's degree program with Bellevue University I dedicated my career to serving those with severe and persistent mental health diagnoses. My work quickly led me earn leadership positions where I developed a growing interest data-practices that could be used to improve service quality, impact, and outcomes.*
 
-<details markdown="1"><summary><H1><code style="color : blue">Resume</code></H1></summary>  
+<details markdown="1"><summary><H1><style="color : blue">Resume</H1></summary>  
 
   
 ## Technical Skills  
