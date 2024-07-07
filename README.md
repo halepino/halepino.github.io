@@ -4,21 +4,21 @@
 <details>
    <summary><H1>Resume</H1></summary>  
 
-      ## Technical Skills
+   ## Technical Skills
 
-      ---
-      
-      **Languages:** Python, R, SQL  
-      **Software:** Tableau, Power BI, Excel, Hadoop, Spark, HBase  
-      **Methods:** Statistics, data mining, web-scraping, cleaning, transformation, machine learning, visualization, dashboarding.
-      
-      ## Education
-      
-      ---
-      
-      M.S. Data Science  
-      B.S. Sociology   
-      B.S. Psychology   
+   ---
+   
+   **Languages:** Python, R, SQL  
+   **Software:** Tableau, Power BI, Excel, Hadoop, Spark, HBase  
+   **Methods:** Statistics, data mining, web-scraping, cleaning, transformation, machine learning, visualization, dashboarding.
+   
+   ## Education
+   
+   ---
+   
+   M.S. Data Science  
+   B.S. Sociology   
+   B.S. Psychology   
    
 ## Work Experience  
 
