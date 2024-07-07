@@ -3,8 +3,7 @@
 
 <details>
    <summary><H1>Resume</H1></summary>  
-
-   ```markdown
+  
    ## Technical Skills
 
    ---
@@ -38,7 +37,7 @@
 * Influenced grantmaking changes through reporting on post-covid philanthropic trends and non-profit feedback. 
 * Co-Authorship of their 2023 Community Needs Assessment and full authorship of assigned blogs. 
 * Used Excel, Python, and Power BI to perform ad hoc analysis on volunteer engagement and donation.
-
+  
 </details>    
 
 # Projects
