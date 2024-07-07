@@ -41,10 +41,7 @@ B.S. Psychology
 
 ---
 
-# Projects
-
- ---
-
+# Projects  
 ## Data Mining the Workplace for Mental Health
 
 ![workcalm](/docs/assets/img/workcalm2.jpg) Image by <a href="https://www.freepik.com/free-vector/organic-flat-business-person-meditating_13404860.htm#query=work%20stress%20illustration&position=0&from_view=keyword&track=ais&uuid=54d997d2-295c-4bbf-b840-bd90d710e3cf">Freepik</a>
