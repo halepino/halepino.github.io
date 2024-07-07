@@ -3,7 +3,8 @@
 
 <details>
 <summary><H1>Resume</H1></summary>  
- 
+
+
 ## Technical Skills
 
 ---
